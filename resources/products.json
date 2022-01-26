@@ -1,0 +1,113 @@
+[
+  {
+    "id": "821b7039-833f-4d36-a28d-3d6f07f3ca06",
+    "hierarchy_node_id": "7e8d7543-0eb2-4f63-a154-16fbecb128f6",
+    "name": "Pre-Lit Twig Tree, Black",
+    "description": "This sparkly black twig tree provides a great background for your Halloween decorations or can be used at Christmas for a unique and modern decorative effect along with your baubles.",
+    "price": 23.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 5
+  },
+  {
+    "id": "db141e20-08f7-4a37-9ae6-86e73f3a4ec3",
+    "hierarchy_node_id": "7e8d7543-0eb2-4f63-a154-16fbecb128f6",
+    "name": "Festive Fir Unlit Christmas Tree",
+    "description": "Our Festive Fir offers you excellent value for money. Its classic conical shape has realistic green tips to show off your decorations.",
+    "price": 49.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 2
+  },
+  {
+    "id": "399e8377-288a-43e3-9cb9-cb0b20819eff",
+    "hierarchy_node_id": "e7e49f22-26a1-4026-967d-5a627fef78e7",
+    "name": "100 LED Cluster Lights, Gold Wire / Warm White",
+    "description": "Tiny, warm white LEDs form delicate clusters, on silver wire and are battery-operated, making them easy and versatile to use. The only limit is your imagination. Indoor use only.",
+    "price": 8.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 2
+  },
+  {
+    "id": "bbc43b80-4d39-4862-b91a-bd85e60ae00c",
+    "hierarchy_node_id": "b4102277-cb3c-4718-be43-8b036bbcb42e",
+    "name": "Luxury Christmas Crackers, Pack of 6, Green / Gold",
+    "description": "These beautifully-finished robin design Christmas crackers will make for a wonderful addition to any table. Finished with luxurious satin ribbon.",
+    "price": 20.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 10
+  },
+  {
+    "id": "f9257e41-107b-4a47-b905-353012c7f51d",
+    "hierarchy_node_id": "aeee3494-4105-4fb5-8d20-83904ad52ef0",
+    "name": "Hub Mesh Office Chair, Grey",
+    "description": "The back rest is made from breathable mesh and we've upholstered the seat in a soft fabric.",
+    "price": 150.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 3
+  },
+  {
+    "id": "2fe6c75b-3335-4a68-9d72-cf9a47980ef8",
+    "hierarchy_node_id": "aeee3494-4105-4fb5-8d20-83904ad52ef0",
+    "name": "Reid Faux Leather Office Chair, Black",
+    "description": "Designed for short periods at your desk and light computer use, our Reid office chair is height-adjustable to suit each user. Its tub shape incorporates armrests and its faux leather upholstery means it's easy to wipe clean.",
+    "price": 75.0,
+    "currency": "GBP",
+    "stock_available": false,
+    "units_in_stock": 0
+  },
+  {
+    "id": "843a511e-841c-4ba7-9140-913638062cdc",
+    "hierarchy_node_id": "7606dbb7-74aa-41c8-a3ed-d2389894c171",
+    "name": "Franklin Desk, Brown",
+    "description": "Well-proportioned for your home office, the Franklin desk is made from wood and designed with marquetry techniques to create a tactile, geometric facade.",
+    "price": 450.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 3
+  },
+  {
+    "id": "9b26357a-9636-42bd-8f43-ea4e23ec80aa",
+    "hierarchy_node_id": "7606dbb7-74aa-41c8-a3ed-d2389894c171",
+    "name": "Abacus Filing Desk, FSC-Certified",
+    "description": "This simple, roomy desk with its built-in set of drawers offers useful storage space and a convenient place to work.",
+    "price": 299.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 4
+  },
+  {
+    "id": "5b452c0e-70cb-4253-ab6e-031a69004d8c",
+    "hierarchy_node_id": "29e6850d-0196-4d4d-8492-2650516b7eeb",
+    "name": "Loft 2 Drawer Filing Cabinet, Grey/White",
+    "description": "Tuck this practical filing cabinet under our coordinating Loft desk to complete your home office set up.",
+    "price": 129.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 6
+  },
+  {
+    "id": "e79a4b3b-cfd7-4e87-88fc-68248b5c6cd4",
+    "hierarchy_node_id": "8585001a-990d-41ab-a315-f0edc7a4dcf1",
+    "name": "Quick-Heating Round Inflatable Hot Tub with Filter Pack, Chemicals & Cover Bundle, 6 Person",
+    "description": "This six-person hot tub comes with two filter cartridges and a chemical starter kit with everything you need to keep your hot tub clean.",
+    "price": 1249.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 1
+  },
+
+  {
+    "id": "9d8bfe53-e554-4b51-abf8-78e837356e5d",
+    "hierarchy_node_id": "a7efb437-2e77-4646-9ce9-ad92fd63abe7",
+    "name": "4 Burner Gas BBQ, Silver/Black",
+    "description": "The 4-burner gas barbecue is perfect for catering for several people when cooking outdoors.",
+    "price": 399.0,
+    "currency": "GBP",
+    "stock_available": true,
+    "units_in_stock": 2
+  }
+]
